@@ -6,6 +6,13 @@ body {
   font-family: 'Roboto Mono', monospace;
 }
 
+.flex-container {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+
+
 h1 {
   font-size: 32px;
   font-family: 'Rubik Mono One', sans-serif;
